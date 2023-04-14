@@ -1,1 +1,4 @@
-Karenin Alanı 25
+Dikdörtgenin Alanı 8
+Dikdörtgenin Alanı 8
+Dikdörtgenin Alanı 12
+Dikdörtgenin Alanı 12

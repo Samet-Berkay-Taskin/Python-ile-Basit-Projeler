@@ -34,3 +34,6 @@ elif secim == 3:
     y = int(input("Paralelkenarın yüksekliğini giriniz= "))
     alan = paralelkenar(k1, y)
     file.write("ParalelKenarın Alanı "+str(alan) + "\n")
+else:
+    print("Seçiminiz 1,2 veya 3 olmalı!")
+file.close()
