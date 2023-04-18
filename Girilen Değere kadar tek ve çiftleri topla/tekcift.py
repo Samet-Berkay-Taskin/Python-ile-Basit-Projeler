@@ -6,14 +6,10 @@ num = int(input("Sayıyı giriniz"))
 cift = 0
 tek = 0
 
-for i in range(2, num, 2):
+for i in range(2, num+1, 2):
     cift = cift + i
-for j in range(1, num, 2):
+for j in range(1, num+1, 2):
     tek = tek + j
 
-if num % 2 == 0:
-    cift = cift + num
-else:
-    tek = tek + num
 print("Çift sayıların toplamı ", cift)
 print("Tek sayıların toplamı ", tek)
