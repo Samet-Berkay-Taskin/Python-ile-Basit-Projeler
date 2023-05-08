@@ -1,5 +1,5 @@
 """
- Bir metin dosyasındaki belirli bir kelimeyi arayarak bulunduğu satır ve satırdaki kaçıncı kelime olduğunu belirten
+ Bir metin dosyasındaki belirli bir kelimeyi arayarak bulunduğu satır ve satırdaki kaçıncı kelime olduğunu belirten program
 """
 
 with open("Metin.txt", "w", encoding="utf-8") as file:
